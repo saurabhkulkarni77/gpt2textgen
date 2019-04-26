@@ -25,3 +25,4 @@ If successful, you will see something like this:
 ## Full Tutorial
 
 This repository contains code for my medium tutorial on [Deploy Machine Learning Model in Google Cloud using Cloud Run](https://medium.com/@NaxAlpha/deploy-machine-learning-model-in-google-cloud-using-cloud-run-6ced8ba52aac)
+# gpt2textgen
